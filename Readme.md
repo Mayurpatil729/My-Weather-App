@@ -66,16 +66,8 @@ The main files and folders in this project are as follows:
 4. Build and deploy the project using Apache Tomcat.
 5. Access the app at `http://localhost:8080/weather-app/` in your browser.
 
-## Example
-
-Here's how the weather app interface looks:
-
-![Weather App Interface](images/weather_screenshot.png)
 
 ## API Usage
 
 - **OpenWeather API**: This app uses the `/weather` endpoint from the OpenWeather API to get current weather data based on a city name. [API Documentation](https://openweathermap.org/current).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
